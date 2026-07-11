@@ -44,9 +44,9 @@ Problem-solving is where I sharpen the way I think about systems. I spend a larg
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/UP-Aditya)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/UP-Aditya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/UP-Aditya)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chahat)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adityaa_up62)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/__chahat)
 [![Codolio](https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditya_up62)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UP-Aditya)
 
@@ -137,16 +137,6 @@ ESP32-based emergency alert device with a FastAPI + Supabase backend and a real-
 `FastAPI` `Supabase` `ESP32`
 [View Repository →](https://github.com/UP-Aditya)
 
-**🚀 Project Name**
-_Description to be added._
-`Tech` `Stack`
-[View Repository →](https://github.com/UP-Aditya)
-
-**🚀 Project Name**
-_Description to be added._
-`Tech` `Stack`
-[View Repository →](https://github.com/UP-Aditya)
-
 ---
 
 ## GitHub Analytics
@@ -171,9 +161,9 @@ _Description to be added._
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-upadhyay-69161a328/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahatupadhyay2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UP-Aditya)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/UP-Aditya)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/UP-Aditya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/UP-Aditya)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chahat)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adityaa_up62)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/__chahat)
 [![Codolio](https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/aditya_up62)
 
 </div>
