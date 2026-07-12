@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=180&amp;section=header&amp;text=Aditya%20Upadhyay&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Competitive%20Programmer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Backend%20Developer&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aditya%20Upadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Competitive%20Programmer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20Backend%20Developer&descAlignY=62&descSize=16" width="100%" alt="Header banner: Aditya Upadhyay"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Solving+problems%2C+one+algorithm+at+a+time;Automating+infrastructure%2C+not+repeating+it;Building+backend+systems+that+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Solving+problems%2C+one+algorithm+at+a+time;Automating+infrastructure%2C+not+repeating+it;Building+backend+systems+that+scale" alt="Typing SVG" />
 </a>
 
 </div>
@@ -143,12 +143,12 @@ ESP32-based emergency alert device with a FastAPI + Supabase backend and a real-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UP-Aditya&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UP-Aditya&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=UP-Aditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Aditya's GitHub stats"/>
+<img src="https://streak-stats.demolab.com/?user=UP-Aditya&theme=tokyonight&hide_border=true" width="49%" alt="Aditya's GitHub streak stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UP-Aditya&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UP-Aditya&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Aditya's most used languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UP-Aditya&amp;theme=tokyo-night&amp;hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UP-Aditya&theme=tokyo-night&hide_border=true" width="100%" alt="Aditya's contribution activity graph"/>
 
 </div>
 
@@ -172,10 +172,14 @@ ESP32-based emergency alert device with a FastAPI + Supabase backend and a real-
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://komarev.com/ghpvc/?username=UP-Aditya&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views counter"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=90&amp;section=footer" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
