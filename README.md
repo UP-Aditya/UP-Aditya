@@ -143,8 +143,8 @@ ESP32-based emergency alert device with a FastAPI + Supabase backend and a real-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UP-Aditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Aditya's GitHub stats"/>
-<img src="https://streak-stats.demolab.com/?user=UP-Aditya&theme=tokyonight&hide_border=true" width="49%" alt="Aditya's GitHub streak stats"/>
+<img src="./generated/overview.svg" width="49%" alt="Aditya's GitHub stats"/>
+<img src="./profile/streak.svg" width="49%" alt="Aditya's GitHub streak stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UP-Aditya&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Aditya's most used languages"/>
 
