@@ -171,27 +171,20 @@ An automation pipeline that automatically pushes solved Codeforces problems to G
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UP-Aditya&show_icons=true&hide_border=true&count_private=true&title_color=B388FF&icon_color=B388FF&text_color=c9d1d9&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" alt="GitHub Stats"/>
 
 <img src="https://streak-stats.demolab.com/?user=UP-Aditya&hide_border=true&background=0D1117&ring=B388FF&fire=B388FF&currStreakLabel=B388FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UP-Aditya&layout=compact&hide_border=true&title_color=B388FF&text_color=c9d1d9&bg_color=0D1117" width="49%" alt="Top Languages"/>
+<img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UP-Aditya&bg_color=0D1117&color=B388FF&line=B388FF&point=ffffff&hide_border=true" width="49%" alt="Contribution Graph"/>
+</div>
 
 </div>
 
 ---
 
-## `~/` GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=UP-Aditya&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## `~/` contribution snake
 
