@@ -24,6 +24,9 @@
 <a href="https://leetcode.com/__chahat">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
+<a href="https://atcoder.jp/users/chahat_">
+  <img src="https://img.shields.io/badge/AtCoder-1F1F1F?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+</a>
 <a href="https://codolio.com/profile/aditya_up62">
   <img src="https://img.shields.io/badge/Codolio-7C4DFF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
 </a>
@@ -94,13 +97,14 @@ aditya@github:~$ ./about.sh
 | 🟣 Codeforces | [@chahat](https://codeforces.com/profile/chahat)             |
 | 🟤 CodeChef   | [@adityaa_up62](https://www.codechef.com/users/adityaa_up62) |
 | 🟠 LeetCode   | [@__chahat](https://leetcode.com/__chahat)                   |
+| 🔵 AtCoder    | [@chahat_](https://atcoder.jp/users/chahat_)                 |
 | 🟪 Codolio    | [@aditya_up62](https://codolio.com/profile/aditya_up62)      |
 
 </div>
 
 ```text
-Problems solved     : 1400+
-Rated contests      : 100+
+Problems solved     : 1800+
+Rated contests      : 150+
 Primary language    : C++
 Current obsession   : DP → Graphs → Greedy → Everything
 ```
@@ -193,7 +197,11 @@ An automation pipeline that automatically pushes solved Codeforces problems to G
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -217,7 +225,7 @@ An automation pipeline that automatically pushes solved Codeforces problems to G
 ├──────────────────────────────────────────────┤
 │ DSA Practice        ███████████████░  ACTIVE │
 │ Competitive Coding  ██████████████░░  ACTIVE │
-│ DevOps               ███████████████░  ACTIVE │
+│ DevOps              ███████████████░  ACTIVE │
 │ Kubernetes           ████████░░░░░░░  LEARN  │
 │ Terraform            ███████░░░░░░░░  LEARN  │
 │ Backend Engineering  ██████████████░░  ACTIVE │
