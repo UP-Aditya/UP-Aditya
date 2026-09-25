@@ -198,9 +198,21 @@ An automation pipeline that automatically pushes solved Codeforces problems to G
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/UP-Aditya/UP-Aditya/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+
 </picture>
 
 </div>
